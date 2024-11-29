@@ -1,2 +1,2 @@
-# _Lecry_
+# \_Lecry\_
 My personal repository
